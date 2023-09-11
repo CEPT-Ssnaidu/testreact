@@ -34,7 +34,8 @@ export default function SiteHeadder(){
     <img class="img-responsive hidden-xs"  src={Azadi}  id="Azadi" alt="Azadi ka amrit mahotsav"/> 
         </a>
     
-     <div  className ="mt-15">
+     <div className= "flex space-x-7 bg-gray-300 h-15 pb-4 pt-2 shadow-xs rounded-md  italic hover:not-italic text-justify">
+  
         
         <NavLink to="/">Home</NavLink>
         <NavLink to="/about">About</NavLink>
