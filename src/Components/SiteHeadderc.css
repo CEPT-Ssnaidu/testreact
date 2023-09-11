@@ -1,0 +1,78 @@
+.row {
+    margin-right: -15px;
+    margin-left: 10px;
+	
+}
+
+.col-md-4 {
+    width: 33.33333333%;
+    float:left;
+}
+.col-md-5{
+    width: 33.33333333%;
+    float:center;
+    text-align: center;
+}
+
+.col-md-6 {
+    width: 33.33333333%;
+    float:right;
+}
+a:visited {
+    color: #337ab7;
+    text-decoration: none;
+    
+}
+a {
+    font-size: 1.000em;
+    background: transparent;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    vertical-align: top;
+    cursor: pointer;
+    font-stretch: semi-expanded;
+}
+#india-post-logo {
+    display: inline-block;
+    float:left;
+    max-width: 25%;
+    height: 100px;
+}
+
+#Emblem{
+    display: inline-block;
+    float:left;
+    max-width: 30%;
+    height: auto;
+    padding: 10px 30px 0px 0px;
+
+
+}
+
+#text1{
+    display: inline-block;
+    float:center;
+    color: black;    
+    max-width: 50%;
+    height: auto;
+    padding: 10px 30px 0px 0px;
+}
+
+#g20{
+    display: inline-block;
+    float:right;
+    max-width: 30%;
+    height: 80px;
+}
+
+#Azadi{
+    display: inline-block;
+    float:right;
+    max-width: 30%;
+    height: 100px;
+    padding: 10px 10px 0px 0px;
+
+
+}

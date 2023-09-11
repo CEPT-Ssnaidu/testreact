@@ -1,0 +1,27 @@
+
+.dis {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+table {
+    border: 2px solid forestgreen;
+    width:100%;;
+    height: 60px;;
+}
+ 
+th {
+    width:25%;
+    border-bottom: 1px solid black;
+    border-left: 1px solid greenyellow;
+}
+ 
+td {
+    width:25%;
+    text-align: center;
+    border-bottom-color: chocolate;
+    border-left: 1px solid greenyellow;
+}
